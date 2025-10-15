@@ -1,6 +1,6 @@
 CREATE DATABASE LANHOUSE
 
-
+--Acadêmicos: João Júnior e joão Vitor Ceccon
 -- ========================
 -- 1. TABELAS
 -- ========================
